@@ -1,0 +1,79 @@
+1. Faça um algoritmo que mostre o passo a passo para trocar uma de lâmpada queimada.
+
+Resposta:
+1 - Liga o interruptor para testar a lâmpada
+2 - Desliga o interruptor
+3 - Desliga a chave de energia geral
+4 - Pega uma escada até o local da lâmpada
+5 - Localize a lâmpada nova
+6 - Suba até o local da lâmpada
+7 - Retira a lâmpada queimada
+8 - Desça da escada
+9 - Descarte a lâmpada queimada
+10 - Pega a lâmpada nova
+11 - Suba na escada
+12 - Coloca a lâmpada a nova
+13 - Desce do local da lâmpada
+14 - Liga a chave de energia geral
+15 - Liga o interruptor para testar a lâmpada nova
+16 - Desliga o interruptor
+
+2. Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+
+Resposta:
+
+1 - Pegar a coleira
+2 - Procura o animal
+3 - Prende o animal na coleira
+4 - Vai até a saída do local
+5 - Abre a porta
+6 - Sai do local
+7 - Fecha a porta
+8 - Iniciar o passeio
+9 - Correr ou andar com o animal pelas ruas
+10 - Voltar para casa
+11 - Abrir portão
+12 - Entrar em casa
+13 - Fechar portão
+14 - Fim de passeio
+
+3. Faça um algoritmo que mostre o passo a passo para acessar um computador.
+
+Resposta:
+1 - Chegar a mesa do computador
+2 - Verificar o cabo de energia
+3 - Ligar o computador na tomada de energia
+4 - Apertar o botão de ligar o computador
+5 - Ligar o monitor
+6 - Aguardar computador inicializar
+7 - Acessar as funções do computador
+
+4. Faça um algoritmo que mostre o passo a passo para lavar um copo
+
+Resposta:
+1 - Pegar o copo sujo
+2 - Levar até a pia
+3 - Pegar o sabão ou detergente
+4 - Pegar a bucha
+5 - Esfregar o sabão na bucha
+6 - Molhar o copo em água corrente
+7 - Esfregar a bucha com sabão no copo por dentro
+8 - Esfregar a bucha com sabão no copo por fora
+9 - Enxaguar o copo em água corrente
+10 - Secar o copo
+11 - Guardar o copo limpo
+
+
+5. Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+
+Resposta:
+1 - Chegar ao celular ou computador
+2 - Desbloquear o dispositivo
+3 - Acessar a tela incial do dispositivo
+4 - Procurar aplicativo da rede social
+5 - Abrir o aplicativo da rede social
+6 - Acessar função de postar foto
+7 - Escolher a foto ou tirar uma foto
+8 - Editar a foto
+9 - Confirmar postagem de foto
+10 - Visualizar foto postada
