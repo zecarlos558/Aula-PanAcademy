@@ -24,7 +24,7 @@ O Projeto inicial era exigido para ser executado em terminal, mas por capricho d
 
 ###### Screenchot Tela Inicial:
 
-![](Captura de Tela - Sistema Loja Virtual.png)
+![](screenshot_Sistema_Loja_Virtual.png)
 
 
 
