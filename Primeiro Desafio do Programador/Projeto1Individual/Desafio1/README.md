@@ -24,13 +24,13 @@ O Projeto inicial era exigido para ser executado em terminal, mas por capricho d
 
 ###### Screenchot Tela Inicial:
 
-![](C:\Users\JC Trabalho\Documents\Curso Pan Academy\Projetos\Projeto1Individual\Desafio1\Captura de Tela - Sistema Loja Virtual.png)
+![](Captura de Tela - Sistema Loja Virtual.png)
 
 
 
 #### PATROCINADORES
 
-![](C:\Users\JC Trabalho\Documents\Curso Pan Academy\Projetos\Projeto1Individual\Desafio1\logo_gamaAcademy.png)
+![](logo_gamaAcademy.png)
 
-![](C:\Users\JC Trabalho\Documents\Curso Pan Academy\Projetos\Projeto1Individual\Desafio1\logo_bancoPan.png)
+![](logo_bancoPan.png)
 
