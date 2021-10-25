@@ -4,7 +4,7 @@ Projeto desenvolvido para o Curso do Pan Academy - Java e AWS
 
 Desafio do programador proposto para a turma 1. Testando e avaliando os conhecimentos práticos abordados em sala de aula
 
-Este é um sistema para prática e exercícios de habilidades. O projeto oficial foi feito em grupo https://github.com/zecarlos558/Aula-PanAcademy/tree/main/Primeiro%20Desafio%20do%20Programador/Projeto1Grupo/PanStore
+Este é um sistema para prática e exercícios de habilidades. O projeto oficial foi feito em grupo [ProjetoOficialGrupo2](https://github.com/zecarlos558/Aula-PanAcademy/tree/main/Primeiro%20Desafio%20do%20Programador/Projeto1Grupo/PanStore)
 
 #### Objetivos
 
