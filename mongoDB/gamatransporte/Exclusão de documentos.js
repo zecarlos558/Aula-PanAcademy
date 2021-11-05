@@ -1,0 +1,1 @@
+db.getCollection('Passagem').remove({ "passageiro.nome" : /.*José.*/});

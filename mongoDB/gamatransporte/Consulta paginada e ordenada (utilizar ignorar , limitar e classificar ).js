@@ -1,0 +1,1 @@
+db.getCollection('Passagem').find({}).skip(1).limit(3).sort({"valor" : -1})

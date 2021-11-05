@@ -1,0 +1,22 @@
+-- Consulta Simples
+db.getCollection('Passagem').find({"passageiro.nome":"Jonathan"})
+
+-- Consulta com operadores
+
+db.getCollection('Passagem').find({"passageiro.nome":"Jenifer","dataHora": {$gte:
+ISODate('2021-07-12 11:00:00.000Z') }})
+
+-- Consulta com ordenação
+
+db.getCollection('Passagem').find({}).sort({"valor" : -1})
+
+-- Consulta com paginação
+
+db.getCollection('Passagem').find({}).limit(3)
+db.getCollection('Passagem').find({}).skip(2)
+-- utilizando todas as paginações
+db.getCollection('Passagem').find({}).skip(1).limit(3).sort({"valor" : -1})
+
+-- Consulta com projeção
+
+db.getCollection('Passagem').find({"valor" : {$gte:200}},{"passageiro":1,"_id":0})
